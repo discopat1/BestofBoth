@@ -14,7 +14,21 @@ nav .brand-logo {
 p {
   line-height: 2rem;
 }
+.header 
+  {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-style: bold;
+  }
 
+h1 {
+  font-size: 78px;
+}
+
+#logo {
+  width: 6%;
+  position: relative;
+  top: 2px;
+}
 .sidenav-trigger {
   color: #26a69a;
 }
