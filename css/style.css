@@ -62,6 +62,15 @@ h1 {
   #index-banner .section {
     top: 0;
   }
+  .parallax-container {
+    min-height: 300px;
+  }
+  #logo {
+    width: 23%;
+    position: relative;
+    top: 6.5px;
+    left: 239px;
+  }
 }
 
 .icon-block {
