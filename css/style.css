@@ -18,7 +18,11 @@ p {
   {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-style: bold;
-  }
+}
+
+#banner-img {
+  width: 250px;
+}
 
 h1 {
   font-size: 78px;
