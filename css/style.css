@@ -83,3 +83,7 @@ h1 {
 footer.page-footer {
   margin: 0;
 }
+
+#rock-pic {
+  width: 50%;
+}
