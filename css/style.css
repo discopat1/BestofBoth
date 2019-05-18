@@ -29,10 +29,13 @@ h1 {
 }
 
 #logo {
-  width: 7%;
+  width: 14%;
   position: relative;
   bottom: 3.5px;
   right: 12px;
+}
+#logo-container {
+  width: 50%;
 }
 .sidenav-trigger {
   color: #26a69a;
