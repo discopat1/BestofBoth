@@ -1,2 +1,2 @@
 # BestofBoth
-Website for the business Best of Both Worlds, LLC
+Website for the business Best of Both Worlds Wellness, LLC
