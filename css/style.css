@@ -93,3 +93,11 @@ footer.page-footer {
 .para-text {
   color: black;
 }
+iframe {
+  width: 100%;
+  border: 3px solid #409689;
+}
+.title {
+  text-align: center;
+  font-size: 30px;
+}
